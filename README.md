@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aadrsh Gosavi<br><br>🎓 Second-Year BCA Student<br><br>🌱 Currently learning:<br>• Java<br>• Data Structures & Algorithms (DSA)<br>• Web Development<br><br>📚 Core Subjects:<br>• Programming in Java<br>• DBMS<br>• Operating Systems<br>• Computer Networks<br>• Data Structures<br>• Computer Fundamentals<br><br>💻 Interested in Software Development<br><br>🤝 Open to collaborating on beginner-friendly projects
+👋 Hi, I'm Aadrsh Gosavi<br><br>🎓 Second-Year BCA Student<br><br>🌱 Currently learning:<br>• Data Structures & Algorithms (DSA)<br>• Web Development<br><br>📚 Core Subjects:<br>• Programming in Java<br>• DBMS<br>• Operating Systems<br>• Computer Networks<br>• Data Structures<br>• Computer Fundamentals<br><br>💻 Interested in Software Development<br><br>🤝 Open to collaborating on beginner-friendly projects
 
 
 ## 🌐 Socials:
