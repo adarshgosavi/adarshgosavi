@@ -12,7 +12,6 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 
 <p align="center">
 
-<a href="https://github.com/adarshgosavi">
 <img src="https://komarev.com/ghpvc/?username=adarshgosavi&style=for-the-badge&color=blue"/>
 </a>
 
