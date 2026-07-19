@@ -23,9 +23,10 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 🌱 **Currently Learning**
 
 - Data Structures & Algorithms
-- Java
+- Java Full Stack Development
 - Full Stack Web Development
 - DBMS
+- SQL/MySQL
 - Operating Systems
 
 🎯 **2026 Goals**
