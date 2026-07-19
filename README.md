@@ -10,10 +10,6 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Full+Stack+Developer;DSA+Learner;Open+Source+Contributor;Always+Learning+New+Things+🚀"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=adarshgosavi&style=for-the-badge&color=blue"/>
-</p>
-
 ---
 
 # 👨‍💻 About Me
