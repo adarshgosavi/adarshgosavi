@@ -46,7 +46,7 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://instagram.com/_adarsh.gosavi_">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
