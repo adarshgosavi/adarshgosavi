@@ -56,10 +56,6 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="mailto:aadrshgosavi89@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://leetcode.com/u/aadrsh-gosavi_/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
@@ -155,6 +151,7 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 - ✔ React
 - ✔ Node.js
 - ✔ Express.js
+- ✔ Spring Boot
 - ✔ MySQL
 - ✔ Data Structures & Algorithms
 - ✔ Operating Systems
