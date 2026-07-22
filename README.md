@@ -77,7 +77,7 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 - 🔥 Full Stack Development
 - ☕ Java Development
 - 📚 Data Structures & Algorithms
-- 🌐 Open Source
+- 🌐 Open Source Contributions
 - ⚡ Git & GitHub
 
 ---
