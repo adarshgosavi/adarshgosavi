@@ -161,7 +161,7 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 
 # 💬 Developer Quote
 
-> **"Consistency beats talent when talent doesn't work consistently."**
+**"Consistency beats talent when talent doesn't work consistently."**
 
 ---
 
