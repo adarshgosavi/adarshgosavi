@@ -91,18 +91,32 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarshgosavi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adarshgosavi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshgosavi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshgosavi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=adarshgosavi&theme=tokyonight&hide_border=true"/>
+
+<img width="60%" src="https://streak-stats.demolab.com?user=adarshgosavi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarshgosavi&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshgosavi&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -111,14 +125,6 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshgosavi&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adarshgosavi&theme=tokyonight&row=1&column=7&no-frame=true"/>
 </p>
 
 ---
@@ -191,14 +197,6 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 # 💬 Random Developer Quote
 
 > **"First, solve the problem. Then, write the code."** — John Johnson
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 ---
 
