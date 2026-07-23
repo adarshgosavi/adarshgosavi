@@ -116,7 +116,7 @@
 # 💯 LeetCode
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/aadrsh-gosavi_?theme=dark&font=Karma&ext=contest"/>
+  <img src="https://leetcard.jacoblin.cool/aadrsh-gosavi_?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
