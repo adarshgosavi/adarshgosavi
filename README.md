@@ -1,4 +1,8 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ========================= CUSTOM BANNER ========================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aadrsh+Gosavi;Java+Developer;Full+Stack+Developer;Spring+Boot+Learner;DSA+Enthusiast;Open+Source+Contributor;Always+Learning+🚀" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Aadrsh Gosavi</h1>
 
@@ -7,27 +11,33 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Full+Stack+Developer;DSA+Learner;Open+Source+Contributor;Always+Learning+New+Things+🚀"/>
+  <a href="https://github.com/adarshgosavi">
+    <img src="https://img.shields.io/github/followers/adarshgosavi?label=Followers&style=for-the-badge&logo=github&color=blue"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=adarshgosavi&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 🎓 **BCA Student** from India
 
-💻 Passionate about **Software Development**
+💻 Passionate about **Java Development & Full Stack Development**
 
 🌱 **Currently Learning**
 
+- Java
+- Spring Boot
+- React.js
+- Node.js
+- Express.js
+- MySQL
 - Data Structures & Algorithms
-- Java Full Stack Development
-- Full Stack Web Development
-- DBMS
-- SQL/MySQL
 - Operating Systems
+- Computer Networks
 
 🎯 **2026 Goals**
 
@@ -38,9 +48,7 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 
 ⚡ **Fun Fact**
 
-> I enjoy turning ideas into real-world applications.
-
-<br clear="right"/>
+> I love transforming ideas into real-world software.
 
 ---
 
@@ -52,7 +60,7 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://x.com/@AadrshGosa33338">
+<a href="https://x.com/AadrshGosa33338">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
@@ -64,21 +72,22 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 
 ---
 
-# 💻 Languages & Tools
+# 💻 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nodejs,mysql,git,github,vscode,figma,photoshop&perline=8"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,express,spring,mysql,mongodb,git,github,vscode,figma,postman,docker,linux&perline=10"/>
 </p>
 
 ---
 
-# 🚀 Currently Working On
+# 🚀 Current Focus
 
-- 🔥 Full Stack Development
-- ☕ Java Development
+- 🔥 Java Development
+- 🌐 Full Stack Development
 - 📚 Data Structures & Algorithms
-- 🌐 Open Source Contributions
-- ⚡ Git & GitHub
+- ☕ Spring Boot
+- ⚡ Open Source
+- 💡 Problem Solving
 
 ---
 
@@ -93,9 +102,7 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=adarshgosavi&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -103,11 +110,7 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 # 📈 Contribution Graph
 
 <p align="center">
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshgosavi&theme=tokyo-night"/>
-</a>
-
 </p>
 
 ---
@@ -115,9 +118,15 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 # 🏆 GitHub Trophies
 
 <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=adarshgosavi&theme=tokyonight&row=1&column=7&no-frame=true"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=adarshgosavi&theme=tokyonight&no-frame=true&row=1&column=7"/>
+---
 
+# 📋 GitHub Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshgosavi&theme=tokyonight"/>
 </p>
 
 ---
@@ -125,51 +134,93 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 # 💯 LeetCode
 
 <p align="center">
-
-<a href="https://leetcode.com/u/aadrsh-gosavi_/">
-<img src="https://img.shields.io/badge/Visit-My%20LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
+<img src="https://leetcard.jacoblin.cool/aadrsh-gosavi_?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-- ⭐ Student Management System
-- ⭐ Portfolio Website
-- ⭐ Weather App
-- ⭐ Library Management System
-- ⭐ Authentication System
-- ⭐ Full Stack CRUD Application
+| Project | Description |
+|---------|-------------|
+| 🎓 Student Management System | Java + MySQL |
+| 🌦 Weather App | HTML CSS JavaScript API |
+| 📚 Library Management System | Java |
+| 🌐 Portfolio Website | React |
+| 🔐 Authentication System | MERN |
+| 🛒 Full Stack CRUD App | Spring Boot + React |
+
+---
+
+# 📅 Coding Journey
+
+```text
+2024 ───────────── Started Programming
+
+2025 ───────────── Java + Web Development
+
+2026 ───────────── Spring Boot + DSA + Full Stack
+
+2027 🎯────────── Software Engineer
+```
 
 ---
 
 # 📚 Currently Learning
 
-- ✔ Java
-- ✔ React
-- ✔ Node.js
-- ✔ Express.js
-- ✔ Spring Boot
-- ✔ MySQL
-- ✔ Data Structures & Algorithms
-- ✔ Operating Systems
-- ✔ Computer Networks
+✔ Java
+
+✔ Spring Boot
+
+✔ React.js
+
+✔ Node.js
+
+✔ Express.js
+
+✔ MySQL
+
+✔ Docker
+
+✔ Data Structures & Algorithms
+
+✔ System Design
 
 ---
 
-# 💬 Developer Quote
+# 💬 Random Developer Quote
 
-**"Consistency beats talent when talent doesn't work consistently."**
+> **"First, solve the problem. Then, write the code."** — John Johnson
 
 ---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 📫 Let's Connect
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=adarshgosavi&style=for-the-badge"/>
+<a href="https://github.com/adarshgosavi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:aadrshgosavi89@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/aadrsh-gosavi_/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
 </p>
+
+---
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
