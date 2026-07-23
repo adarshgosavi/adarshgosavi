@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Aadrsh Gosavi</h1>
 
 <p align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=650&size=25&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Java+Developer; Full+Stack+Developer; Spring+Boot+Learner; DSA+Enthusiast; Open+Source+Contributor; Always+Learning+🚀" />
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=650&size=25&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Java+Developer;Full+Stack+Developer;Spring+Boot+Learner;DSA+Enthusiast;Open+Source+Contributor;Always+Learning+🚀" />
 </p>
 
 <h3 align="center">
@@ -51,7 +52,7 @@
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://instagram.com/_adarsh.gosavi_">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -71,7 +72,7 @@
 
 # 💻 Tech Stack
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,express,spring,mysql,git,github,vscode,figma,linux&perline=10"/>
 </p>
 
@@ -90,7 +91,11 @@
 
 # 📊 GitHub Analytics
 
-<img align="center" width="60%" src="https://streak-stats.demolab.com?user=adarshgosavi&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<p align="center">
+  
+<img width="60%" src="https://streak-stats.demolab.com?user=adarshgosavi&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+</p>
 
 <p align="center">
 
