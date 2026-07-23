@@ -1,19 +1,16 @@
 <!-- ========================= CUSTOM BANNER ========================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Java+Developer;Full+Stack+Developer;Spring+Boot+Learner;DSA+Enthusiast;Open+Source+Contributor;Always+Learning+🚀" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Aadrsh Gosavi</h1>
 
+<p align="center"> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=650&size=25&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Java+Developer; Full+Stack+Developer; Spring+Boot+Learner; DSA+Enthusiast; Open+Source+Contributor; Always+Learning+🚀" />
+</p>
+
 <h3 align="center">
-Java Developer • Full Stack Developer • BCA Student • DSA Learner
+• Java Developer  • Full Stack Developer  • BCA Student  • DSA Learner
 </h3>
 
 <p align="center">
-  <a href="https://github.com/adarshgosavi">
-    <img src="https://img.shields.io/github/followers/adarshgosavi?label=Followers&style=for-the-badge&logo=github&color=blue"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=adarshgosavi&style=for-the-badge&color=blue"/>
 </p>
 
@@ -54,7 +51,7 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://instagram.com/_adarsh.gosavi_">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -75,7 +72,7 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,express,spring,mysql,mongodb,git,github,vscode,figma,postman,docker,linux&perline=10"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,express,spring,mysql,git,github,vscode,figma,linux&perline=10"/>
 </p>
 
 ---
@@ -93,7 +90,7 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 
 # 📊 GitHub Analytics
 
-<img width="60%" src="https://streak-stats.demolab.com?user=adarshgosavi&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img align="center" width="60%" src="https://streak-stats.demolab.com?user=adarshgosavi&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 <p align="center">
 
@@ -107,14 +104,6 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshgosavi&theme=tokyo-night"/>
-</p>
-
----
-
-# 📋 GitHub Summary
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshgosavi&theme=tokyonight"/>
 </p>
 
 ---
