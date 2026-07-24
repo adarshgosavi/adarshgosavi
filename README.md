@@ -92,15 +92,11 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  
-<img width="60%" src="https://streak-stats.demolab.com?user=adarshgosavi&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
+  <img width="60%" src="https://streak-stats.demolab.com?user=adarshgosavi&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshgosavi&theme=tokyonight"/>
-
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshgosavi&theme=tokyonight"/>
 </p>
 
 ---
