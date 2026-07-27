@@ -154,11 +154,7 @@
 
 ✔ Node.js
 
-✔ Express.js
-
 ✔ MySQL
-
-✔ Docker
 
 ✔ Data Structures & Algorithms
 
