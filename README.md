@@ -46,7 +46,7 @@
 
 ⚡ **Fun Fact**
 
-> I love transforming ideas into real-world software.
+> I love transforming ideas into real-world software...!
 
 ---
 
