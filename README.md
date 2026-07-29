@@ -1,6 +1,6 @@
 <!-- ========================= CUSTOM BANNER ========================= -->
 
-<h1 align="center">Hi 👋, I'm Aadrsh Gosavi</h1>
+<h1 align="center">Hi 👋, I'm Adarsh Gosavi</h1>
 
 <p align="center"> 
   
