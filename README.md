@@ -73,7 +73,7 @@
 # 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,express,spring,mysql,git,github,vscode,figma,linux&perline=10"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,spring,mysql,git,github,vscode,figma,linux&perline=10"/>
 </p>
 
 ---
@@ -84,7 +84,7 @@
 - 🌐 Full Stack Development
 - 📚 Data Structures & Algorithms
 - ☕ Spring Boot
-- ⚡ Open Source
+- ⚡ Open Source 
 - 💡 Problem Solving
 
 ---
