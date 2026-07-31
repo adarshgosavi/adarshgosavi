@@ -91,7 +91,7 @@
 
 # 📊 GitHub Analytics
 
-<img width="60%" src="https://streak-stats.demolab.com?user=adarshgosavi&theme=tokyonight&hide_border=true&v=2"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adarshgosavi&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 
 <p align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshgosavi&theme=tokyonight"/>
