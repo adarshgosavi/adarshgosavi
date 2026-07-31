@@ -91,9 +91,7 @@
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=adarshgosavi&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="60%" src="https://streak-stats.demolab.com?user=adarshgosavi&theme=tokyonight&hide_border=true&v=2"/>
 
 <p align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshgosavi&theme=tokyonight"/>
