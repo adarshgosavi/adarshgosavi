@@ -73,7 +73,7 @@
 # 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,spring,mysql,git,github,vscode,figma,linux&perline=10"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,mysql,git,github,vscode,figma&perline=10"/>
 </p>
 
 ---
