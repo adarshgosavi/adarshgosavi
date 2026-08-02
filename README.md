@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Gosavi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=650&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Java+Developer;Full+Stack+Developer;Spring+Boot+Learner;DSA+Enthusiast;Open+Source+Contributor;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=650&size=40&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Java+Developer;Full+Stack+Developer;Spring+Boot+Learner;DSA+Enthusiast;Open+Source+Contributor;Always+Learning+🚀" />
 </p>
 
 <h3 align="center">
@@ -45,7 +45,7 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 
 ⚡ **Fun Fact**
 
-> I love transforming ideas into real-world software!
+> I love transforming ideas into real-world software...!
 
 ---
 
