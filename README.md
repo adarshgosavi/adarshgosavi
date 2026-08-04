@@ -96,12 +96,6 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
     src="https://streak-stats.demolab.com?user=adarshgosavi&theme=tokyonight&hide_border=true&border_radius=10"
     alt="GitHub Streak"
   />
-
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=adarshgosavi&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
 </p>
 
 <p align="center">
