@@ -99,14 +99,6 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 </p>
 
 <p align="center">
-  <p align="center">
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshgosavi&theme=github_dark"
-width="100%"/>
-</p>
-</p>
-
-<p align="center">
   <img
     width="95%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshgosavi&theme=tokyonight"
