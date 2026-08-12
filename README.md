@@ -190,5 +190,5 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thanks For Visiting My Profile! ⭐
 </h3>
