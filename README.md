@@ -39,13 +39,13 @@ Java Developer • Full Stack Developer • BCA Student • DSA Learner
 🎯 **2026 Goals**
 
 - ✅ Solve 500+ LeetCode Problems
-- ✅ Build 15+ Full Stack Projects
+- ✅ Build 10+ Full Stack Projects
 - ✅ Contribute to Open Source
 - ✅ Crack a Software Developer Internship
 
 ⚡ **Fun Fact**
 
-> I love transforming ideas into real-world software...!
+> I love transforming ideas into real-world Software...!
 
 ---
 
